@@ -1,0 +1,49 @@
+{
+    "short_name": "Nina",
+    "name": "Nina Carducci Photography",
+    "start_url": "/",
+    "id": "fr.ninacarducci.photography",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "icons": [
+        {
+            "src": "./assets/logo/camera.webp",
+            "sizes": "144x144",
+            "type": "image/webp",
+            "functions": [
+                "any"
+            ],
+            "purpose": "maskable"
+        },
+        {
+            "src": "./assets/logo/camera.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "functions": [
+                "any"
+            ]
+        }
+    ],
+    
+    
+    "orientation": "portrait",
+    "scope": "./",
+    "description": "Nina Carducci Photography",
+    "dir": "ltr",
+    "lang": "fr-FR",
+    "prefer_related_applications": false,
+    "related_applications": [
+        {
+            "platform": "web"
+        },
+        {
+            "platform": "play",
+            "url": "https://play.google.com/store/apps/details?id=fr.ninacarducci.photography"
+        }
+    ]
+    
+
+
+    
+}
